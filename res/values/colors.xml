@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="button">#e6e6e6</color>
+    <color name="button_highlight">#bababa</color>
+    
+    <color name="button_shadow">#acacac</color>
+    <color name="button_highlight_shadow">#d5d5d5</color>
+    
+    <color name="text_background">#f2f2f2</color>
+    <color name="text_background_shadow">#acacac</color>
+    <color name="background">#ccc</color>
+    
+    <color name="black">#000</color>
+    <color name="gray">#d5d5d5</color>
+    <color name="blue">#00f</color>
+    <color name="red">#f00</color>
+
+</resources>
